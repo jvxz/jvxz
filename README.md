@@ -3,6 +3,8 @@
 
 aspiring react developer, specializing in next.js
 
+currently working on [gloss](https://github.com/jvxz/gloss), a powerful theme generator for shadcn/ui & tailwind
+
 
 ### my projects 📒
 
