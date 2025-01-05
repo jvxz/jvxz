@@ -3,7 +3,7 @@
 
 aspiring react developer, specializing in next.js
 
-currently working on [🖌️ gloss](https://github.com/jvxz/gloss)
+currently working on [📱 pinch](https://github.com/jvxz/pinch)
 
 ### my projects 📒
 
