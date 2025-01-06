@@ -3,7 +3,7 @@
 
 aspiring react developer, specializing in next.js
 
-currently working on [📱 pinch](https://github.com/jvxz/pinch)
+currently working on **svgc**, a simpler way of adding brand logos to your react project
 
 ### my projects 📒
 
