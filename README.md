@@ -9,7 +9,7 @@ currently working on **svgc**, a simpler way of adding logos to your react proje
 
 [🛠️ svgc](https://github.com/jvxz/svgc) ― simple react icon component generator
 
-[🖌️ gloss](https://github.com/jvxz/gloss) ― a powerful theme generator for shadcn/ui & tailwind
+[🖌️ gloss](https://github.com/jvxz/gloss) ― a powerful theme generator for shadcn/ui
 
 ### currently looking for work!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wisp.bio/)
