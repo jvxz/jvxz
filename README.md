@@ -7,8 +7,6 @@ currently working on **svgc**, a simpler way of adding logos to your react proje
 
 ### my projects 📒
 
-[🛠️ svgc](https://github.com/jvxz/svgc) ― simple react icon component generator
-
 [🖌️ gloss](https://github.com/jvxz/gloss) ― a powerful theme generator for shadcn/ui
 
 ### currently looking for work!
