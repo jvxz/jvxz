@@ -3,7 +3,7 @@
 
 aspiring react developer, specializing in next.js
 
-currently working on **svgc**, a simpler way of adding logos to your react project
+currently working on **clove**, the best way to track time on Rater Hub
 
 ### my projects 📒
 
