@@ -3,3 +3,7 @@
     🌨️
   </samp>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,git,github,react,nextjs,tailwind,vite,vercel&theme=light">
+</p>
