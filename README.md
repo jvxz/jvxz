@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,rust,git,vue,react,nuxt,tailwind,vite&theme=light&perline=5">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,rust,vite,vue,nuxt,tailwind&theme=light&perline=4">
 </p>
 
 <p align="center">
