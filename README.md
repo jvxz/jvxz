@@ -8,6 +8,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,ts,rust,vite,vue,nuxt,tailwind&theme=light&perline=4">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://wakapi.dev/api/badge/jamie/interval:30_days?label=last%2030d">
-</p>
+</p> -->
