@@ -9,5 +9,5 @@
 </p>
 
 <!-- <p align="center">
-  <img src="https://wakapi.dev/api/badge/jamie/interval:30_days?label=last%2030d">
+  <img src="https://time.jamie.to/api/badge/jamie/interval:30_days?label=last%2030d">
 </p> -->
